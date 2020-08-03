@@ -1,5 +1,7 @@
 # react-starter
 
+[@leapfrogtechnology/reactjs-starter](https://github.com/leapfrogtechnology/reactjs-starter) with the touch of TypeScript.
+
 ## Setup Environment
 
 Create a `.env.local` file from `.env.example`. <br>
